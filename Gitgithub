@@ -1,0 +1,18 @@
+Create new github reprositary and empty folder
+open VS cide
+Ctrl + J (For Terminal)
+Copy that " Crete repositary line" from that new reprositary
+in VS code, Click new file =, name it as index.html
+click ! for html code
+in terminal, tyoe Git Branch
+type Git add .
+git status
+git commit -m " Car "
+git status
+git push
+git status
+now open the created reprositary, under that code there is a HTTPS URL link, copy that link
+paste that link in VS terminal as "git clone copied link" (Before that Create another empty file and open it in VS new window) (Ctrl + shift + V)
+git pull
+cd S (then press Tab)
+git pull
